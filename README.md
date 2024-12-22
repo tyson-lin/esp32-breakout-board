@@ -1,0 +1,1 @@
+Design files for a custom ESP32 breakout board that includes an on-board battery management unit.
