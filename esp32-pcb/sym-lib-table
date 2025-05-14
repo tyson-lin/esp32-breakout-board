@@ -1,0 +1,13 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ESP32-S3-WROOM-1-N16R8")(type "KiCad")(uri "${KIPRJMOD}/additional-parts/ESP32-S3-WROOM-1-N16R8/ESP32-S3-WROOM-1-N16R8.kicad_sym")(options "")(descr ""))
+  (lib (name "32kHz-crystal")(type "KiCad")(uri "${KIPRJMOD}/additional-parts/32kHz-crystal/2024-12-26_03-16-26.kicad_sym")(options "")(descr ""))
+  (lib (name "CP2102-A02-QFN24")(type "KiCad")(uri "${KIPRJMOD}/additional-parts/CP2102N-A02-QFN24/2024-12-29_08-42-13.kicad_sym")(options "")(descr ""))
+  (lib (name "CP2102-A02-QFN28")(type "KiCad")(uri "${KIPRJMOD}/additional-parts/CP2102N-A02-QFN28/2024-12-29_09-37-16.kicad_sym")(options "")(descr ""))
+  (lib (name "SS8050-G")(type "KiCad")(uri "${KIPRJMOD}/additional-parts/SS8050-G/SS8050-G.kicad_sym")(options "")(descr ""))
+  (lib (name "USB-micro-receptacle")(type "KiCad")(uri "${KIPRJMOD}/additional-parts/USB-micro-receptacle/10118193-0001LF.kicad_sym")(options "")(descr ""))
+  (lib (name "BQ24075RGTR")(type "KiCad")(uri "${KIPRJMOD}/additional-parts/BQ24075RGTR/BQ24075RGTR.kicad_sym")(options "")(descr ""))
+  (lib (name "AP2112K-3.3")(type "KiCad")(uri "${KIPRJMOD}/additional-parts/AP2112K-3.3/2025-01-20_03-23-32.kicad_sym")(options "")(descr ""))
+  (lib (name "JST-2x1-Header-Vertical")(type "KiCad")(uri "${KIPRJMOD}/additional-parts/JST-2x1-Header-Vertical/B2B-PH-K-S.kicad_sym")(options "")(descr ""))
+  (lib (name "JST-2x1-Header-Horizontal")(type "KiCad")(uri "${KIPRJMOD}/additional-parts/JST-2x1-Header-Horizontal/B2B-PH-SM4-TB.kicad_sym")(options "")(descr ""))
+)
